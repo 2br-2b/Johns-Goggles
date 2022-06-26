@@ -1,0 +1,12 @@
+! name: Catholic Goggles
+! description: A Goggle which filters to only Catholic sites
+! public: true
+! author: John Wuller
+! homepage: https://github.com/2br-2b/Johns-Goggles
+! issues: https://github.com/2br-2b/Johns-Goggles/issues
+|https://www.catholic.com/
+|https://www.newadvent.org/
+|https://www.vatican.va/
+|https://www.usccb.org/
+|https://www.ewtn.com/
+|https://www.vaticannews.va/
